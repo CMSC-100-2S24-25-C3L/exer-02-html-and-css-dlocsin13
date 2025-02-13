@@ -1,6 +1,6 @@
 Full Name: Diego A. Locsin
 Degree Program: BS Computer Science
-Live Website Link:
+Live Website Link: https://cmsc-100-2s24-25-c3l.github.io/exer-02-html-and-css-dlocsin13/
 Steps to create github page:
     1. Repository must be public
     2. push the index.html file to your repository
